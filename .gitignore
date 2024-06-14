@@ -1,0 +1,32 @@
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos compilados
+*.pyc
+*.class
+
+# Ignorar archivos de dependencias (por ejemplo, Python)
+/venv/
+/env/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar archivos de caché
+__pycache__/
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de credenciales
+credentials.json
+
+# Ignorar archivos de datos sensibles
+sensitive_data.txt
+
+# ignorar un ambiente virtual
+/ambiente
