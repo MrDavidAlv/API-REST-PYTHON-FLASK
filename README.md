@@ -1,5 +1,18 @@
 # Proyecto API REST con Flask, SQLAlchemy y JWT
 
+<div align="center">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="django" alt="django" width="40" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>
+</a>
+</div>
+
+
 Este proyecto implementa una API REST en Python utilizando Flask, SQLAlchemy para la gestión de la base de datos SQL Server, y JWT para la autenticación de usuarios. La API permite registrar usuarios, iniciar sesión, crear tareas y listar tareas asociadas a cada usuario.
 
 ## Requisitos del Proyecto
